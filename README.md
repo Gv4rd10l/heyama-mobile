@@ -75,10 +75,10 @@ Testez les endpoints :
 
 ## 📸 Captures d'écran
 
-!(3.jpeg)
-!(2.jpeg)
-!(4.jpeg)
-!(1.jpeg)
+![Screenshot](./3.png)
+![Screenshot](./2.png)
+![Screenshot](./4.png)
+![Screenshot](./1.png)
 
 ---
 
